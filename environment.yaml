@@ -1,0 +1,5 @@
+name: enviro
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Vivian\miniconda3\envs\enviro
